@@ -1,6 +1,6 @@
 # BlazorApp1
 ## Opis
-Projekt stworzony w ramach zajęć **Platformy Programistyczne .NET i Java**.  
+Projekt stworzony w ramach zajęć **Platformy Programistyczne .NET i Java** zadanie 1.  
 Celem było zapoznanie się z technologią **Blazor** oraz stworzenie prostej aplikacji webowej z komponentami.
 
 ## Wykonane Zadanie 1
